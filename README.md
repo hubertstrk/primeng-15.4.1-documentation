@@ -1,4 +1,4 @@
-# local
+# run local
 
 - download at [https://github.com/primefaces/primeng/releases/tag/15.4.1](https://github.com/primefaces/primeng/releases/tag/15.4.1)
 - run `npm install`
